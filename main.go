@@ -6,5 +6,5 @@ import (
 
 func main() {
 	// Create a Redis client
-	fmt.Print("Hello word")
+	fmt.Print("Hello word change")
 }
